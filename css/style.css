@@ -272,6 +272,10 @@ li {
   justify-content: space-between;
 }
 
+#works .work-img {
+  border: 1px solid #757575;
+}
+
 /*--------------------------------
 　about
 ---------------------------------*/
